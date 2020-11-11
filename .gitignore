@@ -1,0 +1,11 @@
+.idea
+.git
+.env
+.phpunit.result.cache
+/clover.xml
+/coveralls-upload.json
+/phpunit.xml
+/vendor/
+/env/
+/data/
+/docker-compose.yml
